@@ -16,3 +16,16 @@ form input {
 form .btn {
   width: 30%
 }
+
+#show-contacts {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: blue;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
